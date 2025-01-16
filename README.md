@@ -1,0 +1,1 @@
+On this project we'll create an HTML webpage for recipes based on HTML only for the Odin Project course.
